@@ -16,7 +16,7 @@ h1,
 h2,
 h3,
 h4 {
-	color: black;
+	color: rgb(8, 7, 7);
 	text-transform: uppercase;
 	font-weight: 700;
 }
@@ -186,4 +186,10 @@ footer .social a:hover {
 
 footer .fresh {
 	word-spacing: 1px;
+}
+
+footer .copyright {
+	color: #333;
+	font-variant: small-caps;
+	font-size: 12px;
 }
